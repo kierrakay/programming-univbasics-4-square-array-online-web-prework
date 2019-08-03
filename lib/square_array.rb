@@ -12,7 +12,7 @@
 #end
 
 
-learn--f-f in terminal will run next failing test stands for fail fast
+#learn--f-f in terminal will run next failing test stands for fail fast
 
 def square_array(array)
 new_array = []
