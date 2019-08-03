@@ -21,5 +21,5 @@ while counter < array.length do
  new_array << array[counter] ** 2 #**squaring incrments
 counter += 1 #increments plus 1 after squaring elements
 end
-return new_array
+return new_array #can also just write new_array without the retun before it 
 end
