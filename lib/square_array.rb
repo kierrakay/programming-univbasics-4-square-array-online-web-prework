@@ -18,7 +18,7 @@ def square_array(array)
 new_array = []
 counter = 0
 while counter < array.length do
-  
+  counter 
 counter += 1 #increments plus 1 after squaring elements
 end
 
