@@ -4,6 +4,7 @@
 #return a ****new*** array with squared numbers 
 # the example section in read me shows us how method is going to work or behave
 
+#while iterator is a loop
 
 
 
