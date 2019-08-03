@@ -4,7 +4,7 @@
 #return a ****new*** array with squared numbers 
 # the example section in read me shows us how method is going to work or behave
 
-#while(conditional) iterator is a loop
+#while(conditional that is either T or F) iterator is a loop
 
 #while <<<<conditon>>> do
       ###execution code here (what you want the loop to do until while statement ((while<<condition>>do)) returns false
