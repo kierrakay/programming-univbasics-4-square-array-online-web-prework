@@ -12,6 +12,8 @@
 #end
 
 
+#learn---f-f in terminal will run next failing test
+
 def square_array(array)
 
 end
