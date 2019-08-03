@@ -7,7 +7,7 @@
 #while(conditional) iterator is a loop
 
 #while <<<<conditon>>> do
-      ###execution code here (what you want the loop to do until it turns false)
+      ###execution code here (what you want the loop to do until while statement ((while<<condition>>do)) returns false
 
 #end
 
