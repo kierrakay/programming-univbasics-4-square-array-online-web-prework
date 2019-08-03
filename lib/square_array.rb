@@ -5,4 +5,3 @@ def square_array(array)
     puts square_array[counter]
     counter += 1
   end
-end
